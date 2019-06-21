@@ -1,0 +1,23 @@
+{
+  "name": "depenedency-checking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghinks/depenedency-checking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghinks/depenedency-checking/issues"
+  },
+  "homepage": "https://github.com/ghinks/depenedency-checking#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
