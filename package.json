@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest src"
+    "test": "jest src",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ghinks/depenedency-checking.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["greenkeeper", "dependency"],
+  "author": "Glenn Hinks",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ghinks/depenedency-checking/issues"
